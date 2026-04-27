@@ -1,28 +1,30 @@
-**Project Overview**
-This project involved the development of a comprehensive Bank Loan Analysis Dashboard designed to monitor lending operations and evaluate the quality of the bank’s loan portfolio. The dashboard provides a dual-layered view: a Summary level for high-level KPIs and executive decision-making, and an Overview level for identifying trends across time, geography, and borrower demographics. The primary goal was to provide actionable insights into "Good Loans" versus "Bad Loans" to mitigate financial risk and optimize lending strategies.
 
-**Technical Highlights**
-KPI Engineering: Developed dynamic measures to track Total Loan Applications, Total Funded Amount ($435.8M), and Total Amount Received ($473.1M).
+🚀 Project Overview
+Developed a comprehensive Bank Loan Analysis Dashboard to monitor lending operations and evaluate portfolio quality. Created a dual-layered interactive interface—Summary level for executive KPIs and Overview level for deep-dive trend analysis—enabling data-driven risk mitigation and lending optimization.
 
-Portfolio Health Modeling: Implemented a classification logic to segment loans into Good Loans (Fully Paid/Current) and Bad Loans (Charged Off), featuring automated calculations for their respective funded amounts and cash recovery.
+🛠️ Technical Highlights
+KPI Engineering: Engineered dynamic measures to track Total Applications, Funded Amount ($435.8M), and Amount Received ($473.1M) using DAX.
 
-Advanced Geospatial Visualization: Utilized a Filled Map to analyze loan distribution and performance across various states, enabling quick identification of high-activity regions.
+Risk Modeling: Implemented classification logic to segment Good Loans (Fully Paid/Current) vs. Bad Loans (Charged Off) for real-time portfolio health tracking.
 
-Multi-Dimensional Trend Analysis: * Temporal: Used Area Charts to track monthly fluctuations in loan applications.
+Geospatial Visualization: Integrated Filled Maps for regional performance analysis across 50+ states.
 
-Demographic: Created Bar Charts to analyze the impact of employment length on loan volume.
+Multi-Dimensional Analytics: * Temporal: Area Charts for monthly application fluctuations.
 
-Structural: Implemented Donut Charts for loan term (36 vs. 60 months) and Tree Maps for home ownership status.
+Demographic: Bar Charts for employment length vs. loan volume.
 
-UX/UI Design: Structured a clean navigation interface with integrated slicers for Grade and State, allowing users to filter the entire report with a single click.
+Structural: Donut Charts for loan terms and Tree Maps for home ownership.
 
-**Key Insights**
-Portfolio Quality: Approximately 86% of the loan portfolio is classified as "Good Loans," indicating a healthy lending standard, while 13.8% are "Bad Loans," which serves as a critical focus area for risk management.
+Advanced UX/UI: Designed a streamlined navigation system with global slicers (Grade/State) for a seamless one-click filtering experience.
 
-Borrower Profiles: Borrowers with 10+ years of employment represent the largest segment of loan applicants, suggesting that long-term job stability is a primary driver for loan eligibility or demand.
+💡 Key Insights
+Portfolio Health: Maintained a healthy 86% Good Loan rate, with 13.8% Bad Loans identified as the primary risk focus.
 
-Loan Purpose: The majority of loans are categorized under "Debt Consolidation," revealing that customers primarily use bank credit to manage existing financial obligations.
+Customer Profile: Identified 10+ year employment as the strongest driver for loan applications.
 
-Regional Dominance: California (CA) and New York (NY) emerge as the top regions for both application volume and funded amounts, highlighting specific geographical markets where the bank's presence is strongest.
+Market Demand: Debt Consolidation emerged as the #1 reason for borrowing.
 
-Financial Health: The average Debt-to-Income (DTI) ratio stands at 13.3%, providing a benchmark for borrower creditworthiness across the portfolio.
+Geographic Focus: California (CA) and New York (NY) dominated as top markets for funded volume.
+
+Credit Standard: Established a portfolio average DTI of 13.3% as a benchmark for borrower creditworthiness.
+
