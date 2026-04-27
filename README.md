@@ -28,7 +28,7 @@ Geographic Focus: California (CA) and New York (NY) dominated as top markets for
 
 Credit Standard: Established a portfolio average DTI of 13.3% as a benchmark for borrower creditworthiness.
 
-💡 Screenshot / Demos
- Show What The Dashboard Looks like :-
+💡 Screenshot 
+ <img width="1305" height="671" alt="Screenshot 2026-04-27 134050" src="https://github.com/user-attachments/assets/67c0f2cb-427f-4261-b4b5-cb72ca888a6f" />
+ <img width="1331" height="683" alt="Screenshot 2026-04-27 134140" src="https://github.com/user-attachments/assets/92c4d487-163b-40d3-bd0d-5a9552cf9a68" />
 
- <img src=""
