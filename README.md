@@ -1,5 +1,5 @@
 
-🚀 Project Overview
+🚀 Project Overview : 
 Developed a comprehensive Bank Loan Analysis Dashboard to monitor lending operations and evaluate portfolio quality. Created a dual-layered interactive interface—Summary level for executive KPIs and Overview level for deep-dive trend analysis—enabling data-driven risk mitigation and lending optimization.
 
 🛠️ Technical Highlights
@@ -28,3 +28,7 @@ Geographic Focus: California (CA) and New York (NY) dominated as top markets for
 
 Credit Standard: Established a portfolio average DTI of 13.3% as a benchmark for borrower creditworthiness.
 
+💡 Screenshot / Demos
+ Show What The Dashboard Looks like :-
+
+ <img src=""
